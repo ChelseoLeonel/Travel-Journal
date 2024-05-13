@@ -1,0 +1,7 @@
+Data array in a separate .js file
+Title, location, google maps, link, start date,
+end date, description, image url.
+
+use .map() and props
+
+styled and polished
